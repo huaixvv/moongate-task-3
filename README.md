@@ -1,7 +1,15 @@
 # deploy contract
+
+`git clone https://github.com/huaixvv/moongate-task-3.git`
+
+`npm i`
+
+`npm run serve`
+
 modify the `.env` and `/contract/.env file`
 
 then run:
+
 `npx hardhat ignition deploy ignition/modules/MoonNFT.js --network ganache`
 
 
