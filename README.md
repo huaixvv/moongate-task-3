@@ -8,7 +8,7 @@
 
 modify the `.env` and `/contract/.env file`
 
-then run:
+then run the command to deploy contract:
 
 `npx hardhat ignition deploy ignition/modules/MoonNFT.js --network ganache`
 
